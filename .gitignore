@@ -1,0 +1,13 @@
+[Dd]ata*/
+models/*/*
+models/*
+Data/*/*
+*.npy
+*.json
+*.pkl
+*.log
+*.pyc
+*.pkl
+*.log
+*.ipynb_checkpoints
+*.ipynb
