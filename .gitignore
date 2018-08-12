@@ -2,6 +2,8 @@
 models/*/*
 models/*
 Data/*/*
+saved_models/*/*
+saved_models*/
 *.npy
 *.json
 *.pkl
